@@ -1,9 +1,9 @@
 
-# Mars is a planet
+# This is my mars log.
 
 Mars is a planet. It has two moons.
 It has a BIG vulcano on it.
 It is the third planet from the Sun.
 I would like to go to Mars.
+A different line at the bottom. I really do not want to go to Mars.
 
-A different line at the bottom I really do not want to go to Mars.
